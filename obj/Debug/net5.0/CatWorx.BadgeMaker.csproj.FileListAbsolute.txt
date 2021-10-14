@@ -1,0 +1,16 @@
+C:\Users\Emily\desktop\projects\after-class\C#-projects\CatWorx\CatWorx.BadgeMaker\bin\Debug\net5.0\CatWorx.BadgeMaker.exe
+C:\Users\Emily\desktop\projects\after-class\C#-projects\CatWorx\CatWorx.BadgeMaker\bin\Debug\net5.0\CatWorx.BadgeMaker.deps.json
+C:\Users\Emily\desktop\projects\after-class\C#-projects\CatWorx\CatWorx.BadgeMaker\bin\Debug\net5.0\CatWorx.BadgeMaker.runtimeconfig.json
+C:\Users\Emily\desktop\projects\after-class\C#-projects\CatWorx\CatWorx.BadgeMaker\bin\Debug\net5.0\CatWorx.BadgeMaker.runtimeconfig.dev.json
+C:\Users\Emily\desktop\projects\after-class\C#-projects\CatWorx\CatWorx.BadgeMaker\bin\Debug\net5.0\CatWorx.BadgeMaker.dll
+C:\Users\Emily\desktop\projects\after-class\C#-projects\CatWorx\CatWorx.BadgeMaker\bin\Debug\net5.0\ref\CatWorx.BadgeMaker.dll
+C:\Users\Emily\desktop\projects\after-class\C#-projects\CatWorx\CatWorx.BadgeMaker\bin\Debug\net5.0\CatWorx.BadgeMaker.pdb
+C:\Users\Emily\desktop\projects\after-class\C#-projects\CatWorx\CatWorx.BadgeMaker\obj\Debug\net5.0\CatWorx.BadgeMaker.csproj.AssemblyReference.cache
+C:\Users\Emily\desktop\projects\after-class\C#-projects\CatWorx\CatWorx.BadgeMaker\obj\Debug\net5.0\CatWorx.BadgeMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emily\desktop\projects\after-class\C#-projects\CatWorx\CatWorx.BadgeMaker\obj\Debug\net5.0\CatWorx.BadgeMaker.AssemblyInfoInputs.cache
+C:\Users\Emily\desktop\projects\after-class\C#-projects\CatWorx\CatWorx.BadgeMaker\obj\Debug\net5.0\CatWorx.BadgeMaker.AssemblyInfo.cs
+C:\Users\Emily\desktop\projects\after-class\C#-projects\CatWorx\CatWorx.BadgeMaker\obj\Debug\net5.0\CatWorx.BadgeMaker.csproj.CoreCompileInputs.cache
+C:\Users\Emily\desktop\projects\after-class\C#-projects\CatWorx\CatWorx.BadgeMaker\obj\Debug\net5.0\CatWorx.BadgeMaker.dll
+C:\Users\Emily\desktop\projects\after-class\C#-projects\CatWorx\CatWorx.BadgeMaker\obj\Debug\net5.0\ref\CatWorx.BadgeMaker.dll
+C:\Users\Emily\desktop\projects\after-class\C#-projects\CatWorx\CatWorx.BadgeMaker\obj\Debug\net5.0\CatWorx.BadgeMaker.pdb
+C:\Users\Emily\desktop\projects\after-class\C#-projects\CatWorx\CatWorx.BadgeMaker\obj\Debug\net5.0\CatWorx.BadgeMaker.genruntimeconfig.cache
